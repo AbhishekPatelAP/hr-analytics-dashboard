@@ -190,7 +190,7 @@ Employee attrition leads to:
 
 ### 🖼️ Overview Page
 
-![Overview](https://github.com/AbhishekPatelAP/hr-analytics-dashboard/blob/main/Overview.png)
+![Overview](https://github.com/AbhishekPatelAP/hr-analytics-dashboard/blob/main/image/Overview.png)
 
 **Key Metrics:**
 
@@ -210,7 +210,7 @@ Employee attrition leads to:
 
 ### 📉 Attrition Analysis
 
-![Attrition](https://github.com/AbhishekPatelAP/hr-analytics-dashboard/blob/main/Attrition.png)
+![Attrition](https://github.com/AbhishekPatelAP/hr-analytics-dashboard/blob/main/image/Attrition.png)
 
 **Insights:**
 
@@ -222,7 +222,7 @@ Employee attrition leads to:
 
 ### 💰 Compensation & Workforce Analysis
 
-![Compensation](https://github.com/AbhishekPatelAP/hr-analytics-dashboard/blob/main/Comensation and Workforce Analysis.png)
+![Compensation](https://github.com/AbhishekPatelAP/hr-analytics-dashboard/blob/main/image/Comensation.png)
 
 **Insights:**
 
@@ -234,7 +234,7 @@ Employee attrition leads to:
 
 ### 😊 Performance & Satisfaction Analysis
 
-![Performance](images/performance.png)
+![Performance](https://github.com/AbhishekPatelAP/hr-analytics-dashboard/blob/main/image/Performance.png)
 
 **Key Metrics:**
 
